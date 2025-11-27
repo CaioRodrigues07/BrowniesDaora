@@ -1,0 +1,4 @@
+[25/11/2025 19:04:13] Produto: Brownie de Nutella | Qtd: 2 | Total: R$ 20.0
+[25/11/2025 19:04:46] Produto: Brownie de Doce de Leite | Qtd: 1 | Total: R$ 8.5
+[25/11/2025 19:51:42] Produto: Brownie de Nutella | Qtd: 4 | Total: R$ 40.0
+[25/11/2025 19:52:12] Produto: Brownie Puro Chocolate | Qtd: 1 | Total: R$ 7.0
